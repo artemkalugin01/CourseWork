@@ -3,7 +3,6 @@ import random
 import pandas as pd
 import re
 import json
-import math
 
 random.seed(0)
 np.random.seed(0)
